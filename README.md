@@ -12,3 +12,9 @@ This code with turn 16 bytes IID S2W format to in game struct value array.
 keyboard on windows is 255 true of false.   
 XInput Gamepad is composed of two joystick and around 18   
 A mouse as percent on the screen.    
+
+
+See
+- https://github.com/EloiStree/2024_08_29_ScratchToWarcraft/issues
+- https://github.com/EloiStree/OpenUPM_PushGenericIID/blob/main/Runtime/STRUCT/Gamepad/GamepadByteId2020Byte99.cs
+- https://github.com/EloiStree/OpenUPM_PushGenericIID/blob/main/Runtime/STRUCT/Gamepad/GamepadId2020Extra.cs
