@@ -1,3 +1,11 @@
+
+```
+git submodule add https://github.com/EloiStree/2025_11_21_gdp_int_s2w_input_multiplayer.git addons/2025_11_21_gdp_int_s2w_input_multiplayer
+git submodule update --init --recursive
+```
+
+
+
 # 2025_11_21_gdp_int_s2w_input_multiplayer
 
 > A tool to make a multiplayer game with lots of players using keyboard, gamepad and mouse.
