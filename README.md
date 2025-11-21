@@ -9,6 +9,6 @@ They can interact in the game with fake keyboard, gamepad and mouse.
 
 This code with turn 16 bytes IID S2W format to in game struct value array.
 
-keyboard on windows is 255 true of false.
-XInput Gamepad is composed of two joystick and around 18 
-A mouse as percent on the screen. 
+keyboard on windows is 255 true of false.   
+XInput Gamepad is composed of two joystick and around 18   
+A mouse as percent on the screen.    
